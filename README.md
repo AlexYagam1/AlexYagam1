@@ -1,6 +1,6 @@
 <body>
-  <h1 aligm="left" height="80">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" align="right" height="100">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" align="right" height="100">
+  <h1>    
     Alexandro Cavalcante - Alex Yagami
   </h1> 
   <br clear="both" />
