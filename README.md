@@ -3,7 +3,7 @@
   <h1>    
     Alexandro Cavalcante - Alex Yagami
   </h1> 
-  <br clear="both" />
+  <br>
 
   <h2>
     Apresentação: 
