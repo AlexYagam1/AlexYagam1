@@ -1,4 +1,4 @@
-# Alexandro Cavalcante - Alex Yagami
+# Alexandro Cavalcante - Alex Yagami <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-vi/omegaruby-alphasapphire/257.png" alt="Blaziken">
 ## Apresentação: 
 &gt;&gt; Olá! Eu sou Alex, espero que goste de ideias malucas porquê é isso que eu mais gosto de fazer.
 <br>&gt;&gt; Atualmente estou cursando Jogos Digitais pela UNICAP e tenho muito interesse na área de Game Design.
