@@ -1,6 +1,6 @@
 <body>
   <h1>
-    Alexandro Cavalcante - Alex Yagami <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" id="Pokemon">
+    Alexandro Cavalcante - Alex Yagami <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" style="display: flex; justify-content: flex-end; ">
   </h1> 
   <h2>
     Apresentação: 
