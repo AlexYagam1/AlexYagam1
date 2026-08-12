@@ -17,7 +17,7 @@
     Programas que estou aprendendo:
   </h2>
   <p>
-    &gt;&gt;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> Unity
+    &gt;&gt;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="20"/> Unity
   </p>
   
 </body>
