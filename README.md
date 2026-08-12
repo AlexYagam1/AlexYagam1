@@ -1,6 +1,6 @@
 # Alexandro Cavalcante - Alex Yagami
 ## Apresentação: 
->> Olá! Eu sou Alex, espero que goste de ideias malucas porquê é isso que eu mais gosto de fazer.
+'>' Olá! Eu sou Alex, espero que goste de ideias malucas porquê é isso que eu mais gosto de fazer.
 
 <!--
 **AlexYagam1/AlexYagam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
