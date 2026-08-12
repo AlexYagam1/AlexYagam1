@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Aoba!!👋
+# Seja bem vindo ao meu perfil! 
+# Eu sou Alexandro Cavalcante, mas gosto do apelido Alex Yagami.
 <!--
 **AlexYagam1/AlexYagam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
