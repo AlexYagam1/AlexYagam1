@@ -16,8 +16,8 @@
   <h2>
     Programas que estou aprendendo:
   </h2>
-  <p>
-    &gt;&gt;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="100"/> Unity
+  <p font-size="12">
+    &gt;&gt;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="80"/> Unity
   </p>
   
 </body>
