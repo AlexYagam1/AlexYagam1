@@ -1,7 +1,7 @@
 # Alexandro Cavalcante - Alex Yagami
 ## Apresentação: 
 &gt;&gt; Olá! Eu sou Alex, espero que goste de ideias malucas porquê é isso que eu mais gosto de fazer.
-&gt;&gt; Atualmente estou cursando Jogos Digitais pela UNICAP e tenho muito interesse na área de Game Design.
+<br>&gt;&gt; Atualmente estou cursando Jogos Digitais pela UNICAP e tenho muito interesse na área de Game Design.
 <!--
 **AlexYagam1/AlexYagam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
