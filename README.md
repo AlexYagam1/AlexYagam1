@@ -1,11 +1,3 @@
-<head>
-  <style>
-    #Pokemon {
-      display: flex;
-      justify-content: flex-end;
-    }
-  </style>
-</head>
 <body>
   <h1>
     Alexandro Cavalcante - Alex Yagami <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" id="Pokemon">
