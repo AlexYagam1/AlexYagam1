@@ -1,8 +1,15 @@
 <body>
-  <h1>
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" align="right">
-    Alexandro Cavalcante - Alex Yagami 
-  </h1> 
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <h1>Alexandro Cavalcante - Alex Yagami</h1>
+      </td>
+      <td align="right" width="100px">
+        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken">
+      </td>
+    </tr>
+  </table>
+
   <h2>
     Apresentação: 
   </h2>
