@@ -3,6 +3,12 @@
     Alexandro Cavalcante - Alex Yagami 
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" align="right" height="100">
   </h1>
+  <p align="midle">
+  <a href="https://instagram.com/alex_yagam1" target="_blank">
+    <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/instagram-Logo.svg" alt="Instagram"  align="middle" height="40"> <b>@Alex_yagam1</b>
+  </a>
+    
+  </p>
   <br>
   <h2>
     Apresentação: 
