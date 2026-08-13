@@ -10,13 +10,19 @@
       <!-- REDE 1 -->
       <td valign="middle" nowrap>
         <a href="https://instagram.com/alex_yagam1" target="_blank">
-          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/instagram-Logo.svg" alt="Instagram" height="50" align="middle">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="33pv" align="middle">
         </a>
       </td>
       <!-- REDE 2 -->
       <td valign="middle" nowrap>
         <a href="https://x.com/Alex_yagam1" target="_blank">
-          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/x-square.svg" alt="X(Twitter)" height="50" align="middle">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X(Twitter)" height="34pv" align="middle">
+        </a>
+      </td>
+      <!-- REDE 3 -->
+      <td valign="middle" nowrap>
+        <a href="https://www.linkedin.com/in/alexandro-cavalcante-3949742b6" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="33pv" align="middle">
         </a>
       </td>
     </tr>
