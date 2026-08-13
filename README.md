@@ -16,7 +16,7 @@
       <!-- REDE 2 -->
       <td valign="middle" nowrap>
         <a href="https://x.com/Alex_yagam1" target="_blank">
-          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/x-square.svg" alt="Instagram" height="50" align="middle">
+          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/x-square.svg" alt="X(Twitter)" height="50" align="middle">
         </a>
       </td>
     </tr>
