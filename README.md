@@ -3,12 +3,34 @@
     Alexandro Cavalcante - Alex Yagami 
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/257.gif" alt="Blaziken" align="right" height="100">
   </h1>
-  <p align="midle">
-  <a href="https://instagram.com/alex_yagam1" target="_blank">
-    <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/instagram-Logo.svg" alt="Instagram"  align="middle" height="40"> <b>@Alex_yagam1</b>
-  </a>
-    
-  </p>
+  
+  <!-- TABELA DE REDES SOCIAIS -->
+  <table>
+    <tr>
+      <!-- REDE 1 -->
+      <td valign="middle" nowrap>
+        <a href="https://instagram.com/alex_yagam1" target="_blank">
+          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/instagram-Logo.svg" alt="Instagram" height="50" align="middle">
+        </a>
+        <b>@alex_yagam1</b>
+      </td>
+      <!-- REDE 2 -->
+      <td valign="middle" nowrap>
+        <a href="https://github.com/AlexYagam1" target="_blank">
+          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/x-Logo.svg" alt="X(Twitter)" height="50" align="middle">
+        </a>
+        <b>@Alex_Yagam1</b>
+      </td>
+      <!-- REDE 3 (EXEMPLO) -->
+      <td valign="middle" nowrap>
+        <a href="https://linkedin.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/AlexYagam1/AlexYagam1/refs/heads/main/Icons/instagram-Logo.svg" alt="LinkedIn" height="50" align="middle">
+          <b>@AlexYagam1</b>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
   <br>
   <h2>
     Apresentação: 
