@@ -25,6 +25,13 @@
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="33pv" align="middle">
         </a>
       </td>
+      </td>
+      <!-- REDE 3 -->
+      <td valign="middle" nowrap>
+        <a href="https://alexyagam1.itch.io/" target="_blank">
+          <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="33pv" align="middle">
+        </a>
+      </td>
     </tr>
   </table>
   <h2>
@@ -40,9 +47,10 @@
     Programas que estou aprendendo:
   </h2>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="50"/>
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="40pv"/>
+    <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" height="40pv"/>
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" height="40pv"/>
+    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37" height="40pv"/>
   </p>
   
 </body>
