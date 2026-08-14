@@ -10,7 +10,7 @@
       <!-- REDE 1 -->
       <td valign="middle" nowrap>
         <a href="https://instagram.com/alex_yagam1" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-0D1017?style=for-the-badge&logo=instagram&logoColor=E84FA6&borderRadius=8px" alt="Instagram" height="33pv" align="middle">
+          <img src="https://img.shields.io/badge/Instagram-0D1017?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" height="33pv" align="middle">
         </a>
       </td>
       <!-- REDE 2 -->
@@ -31,7 +31,7 @@
       <!-- REDE 4 -->
       <td valign="middle" nowrap>
         <a href="https://alexyagam1.itch.io/" target="_blank">
-          <img src="https://img.shields.io/badge/Itch.io-151b23?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" height="33pv" align="middle">
+          <img src="https://img.shields.io/badge/Itch.io-151b23?style=for-the-badge&logo=itchdotio&logoColor=FA5C5C" alt="itch.io" height="33pv" align="middle">
         </a>
       </td>
       <!--</td>
@@ -56,7 +56,7 @@
     Programas que estou aprendendo:
   </h2>
   <p>
-    <img src="https://img.shields.io/badge/Unity-151b23?style=for-the-badge&logo=unity&logoColor=white" height="40pv"/>
+    <img src="https://img.shields.io/badge/Unity-151b23?style=for-the-badge&logo=unity&logoColor=ffffff" height="40pv"/>
     <img src="https://img.shields.io/badge/Godot-151b23?style=for-the-badge&logo=GodotEngine&logoColor=white" height="40pv"/>
     <img src="https://img.shields.io/badge/blender-%23151b23.svg?style=for-the-badge&logo=blender&logoColor=white" height="40pv"/>
     <img src="https://img.shields.io/badge/Krita-151b23?style=for-the-badge&logo=krita&logoColor=white" height="40pv"/>
