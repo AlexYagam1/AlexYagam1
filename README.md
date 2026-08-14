@@ -5,7 +5,7 @@
   </h1>
   <h2>Minhas Redes:</h2>
   <!-- TABELA DE REDES SOCIAIS -->
-  <table>
+  <table align="center">
     <tr>
       <!-- REDE 1 -->
       <td valign="middle" nowrap>
@@ -19,6 +19,8 @@
           <img src="https://img.shields.io/badge/X-151b23?style=for-the-badge&logo=x&logoColor=white" alt="X(Twitter)" height="34pv" align="middle">
         </a>
       </td>
+    </tr>
+    <tr>
       <!-- REDE 3 -->
       <td valign="middle" nowrap>
         <a href="https://www.linkedin.com/in/alexandro-cavalcante-3949742b6" target="_blank">
